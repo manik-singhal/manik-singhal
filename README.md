@@ -1,4 +1,4 @@
-## Hi, I'm Manik 
+## Hi, I'm Manik
 
 I'm a DevOps & Cloud enthusiast preparing for cloud-native roles.
 
@@ -8,15 +8,14 @@ I'm a DevOps & Cloud enthusiast preparing for cloud-native roles.
 - AWS (EC2, IAM, VPC, S3)
 - Open-source contributions (learning phase)
 
-
 **Certifications:**  
 CKA | CKAD | AWS SAA | Terraform Associate
-
 
 ## Tools & Technologies
 - AWS, Kubernetes, Terraform
 - Docker, Linux, Git/GitHub
 - Bash scripting, Networking basics
 
-Currently exploring open-source projects in the Kubernetes ecosystem.
+Currently exploring and contributing to open-source projects in the Kubernetes ecosystem.
+
 
