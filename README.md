@@ -1,6 +1,6 @@
 ## Hi, I'm Manik
 
-I'm a DevOps & Cloud enthusiast preparing for cloud-native roles.
+I'm a DevOps & Cloud enthusiast building hands-on experience for cloud-native roles
 
 ## Current Focus
 - Kubernetes (CKA, CKAD)
