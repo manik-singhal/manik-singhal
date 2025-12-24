@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Manik 👋
 
-<!--
-**manik-singhal/manik-singhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps & Cloud enthusiast preparing for cloud-native roles.
 
-Here are some ideas to get you started:
+### Current Focus
+- Kubernetes (CKA, CKAD)
+- Terraform & Infrastructure as Code
+- AWS (EC2, IAM, VPC, S3)
+- Open-source contributions (learning phase)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Technologies
+- AWS, Kubernetes, Terraform
+- Docker, Linux, Git/GitHub
+- Bash scripting, Networking basics
+
+Currently exploring open-source projects in the Kubernetes ecosystem.
+
